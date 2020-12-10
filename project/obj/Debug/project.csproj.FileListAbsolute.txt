@@ -1,0 +1,33 @@
+E:\vp pro\project\project\bin\Debug\project.exe.config
+E:\vp pro\project\project\bin\Debug\project.exe
+E:\vp pro\project\project\bin\Debug\project.pdb
+E:\vp pro\project\project\bin\Debug\MaterialSkin.dll
+E:\vp pro\project\project\bin\Debug\Microsoft.Web.XmlTransform.dll
+E:\vp pro\project\project\bin\Debug\NuGet.Core.dll
+E:\vp pro\project\project\obj\Debug\project.Properties.Resources.resources
+E:\vp pro\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+E:\vp pro\project\project\obj\Debug\project.exe
+E:\vp pro\project\project\obj\Debug\project.pdb
+E:\vp pro\project\project\obj\Debug\project.Form1.resources
+E:\vp pro\project\project\obj\Debug\project.Form2.resources
+E:\vp pro\project\project\obj\Debug\project.Form3.resources
+E:\vp pro\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+E:\vp pro\project\project\obj\Debug\project.Form4.resources
+E:\vp pro\project\project\obj\Debug\project.Form5.resources
+E:\vp pro\project\project\obj\Debug\project.Form6.resources
+D:\project\project\bin\Debug\project.exe.config
+D:\project\project\obj\Debug\project.exe
+D:\project\project\obj\Debug\project.pdb
+D:\project\project\bin\Debug\project.exe
+D:\project\project\bin\Debug\project.pdb
+D:\project\project\bin\Debug\MaterialSkin.dll
+D:\project\project\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\project\project\bin\Debug\NuGet.Core.dll
+D:\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\project\project\obj\Debug\project.Form1.resources
+D:\project\project\obj\Debug\project.Form2.resources
+D:\project\project\obj\Debug\project.Form4.resources
+D:\project\project\obj\Debug\project.Form5.resources
+D:\project\project\obj\Debug\project.Form6.resources
+D:\project\project\obj\Debug\project.Properties.Resources.resources
+D:\project\project\obj\Debug\project.csproj.GenerateResource.Cache
